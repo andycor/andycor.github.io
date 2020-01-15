@@ -12,7 +12,7 @@
       <p><b>Shanghai China</b></p>
     </td>
     <td width="25%">
-      <img src="/d082d636541e07ea820410f54e26fe9.jpg" width="100%">
+      <img src="/d082d636541e07ea820410f54e26fe9.jpg" width="50%">
     </td>
   </tr>
 </table>
