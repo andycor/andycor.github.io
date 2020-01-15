@@ -8,11 +8,11 @@
       <h1>Yang Liu</h1>
       <p><b>Graduate student</b></p>
       <p><b>East China Normal University</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
+      <p><b>andy_corleone@outlook.com</b></p>
       <p><b>Shanghai China</b></p>
     </td>
     <td width="25%">
-      <img src="/andy.jpg" width="100%">
+      <img src="/d082d636541e07ea820410f54e26fe9.jpg" width="100%">
     </td>
   </tr>
 </table>
@@ -29,7 +29,7 @@ I'm a graduate student and my research field is Machine Learning/Computer Vision
 
 - East China Normal University
 
-### mailbox
+### Mailbox
 - andy_corleone@outlook.com
 
 - 826384624@qq.com
