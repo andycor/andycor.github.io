@@ -3,7 +3,7 @@
 
 <div>
 <table border="0">
-  <tr height=50px>
+  <tr>
     <td width="60%">
       <h1>Yang Liu</h1>
       <p><b>Graduate student</b></p>
