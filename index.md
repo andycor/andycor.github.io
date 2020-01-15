@@ -4,15 +4,15 @@
 <div>
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="60%">
       <h1>Yang Liu</h1>
       <p><b>Graduate student</b></p>
       <p><b>East China Normal University</b></p>
       <p><b>andy_corleone@outlook.com</b></p>
       <p><b>Shanghai China</b></p>
     </td>
-    <td width="25%">
-      <img src="/d082d636541e07ea820410f54e26fe9.jpg" width="50%">
+    <td width="40%">
+      <img src="/d082d636541e07ea820410f54e26fe9.jpg" width="100%">
     </td>
   </tr>
 </table>
