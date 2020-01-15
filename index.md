@@ -4,7 +4,7 @@
 <div>
 <table border="0">
   <tr>
-    <td width="60%"; height:50px>
+    <td width="60%"; height:80px;>
       <h1>Yang Liu</h1>
       <p><b>Graduate student</b></p>
       <p><b>East China Normal University</b></p>
