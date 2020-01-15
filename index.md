@@ -20,7 +20,7 @@
 
 ---
 
-I'm a graduate student and my research field is Machine Learning/Computer Vision
+I'm a graduate student and my research field is **Machine Learning/Computer Vision**
 
 ---
 
